@@ -1,2 +1,5 @@
-
+<<<<<<< HEAD
 Changes in file
+=======
+Deleted upper string testing branch
+>>>>>>> 7700bb2c1f720814577c304036fafc978c1c0da3
